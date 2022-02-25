@@ -1,3 +1,9 @@
+# Dummy data
+*.pdf
+*.docx
+*.txt
+*.jpg
+
 # Prerequisites
 *.d
 
